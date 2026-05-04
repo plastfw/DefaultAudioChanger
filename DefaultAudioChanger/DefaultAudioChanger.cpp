@@ -1,8 +1,8 @@
 /******************************************************************************
 * This file is part of DefaultAudioChanger.
-* Copyright (c) 2011 Sergiu Giurgiu
+* Copyright (c) 2026 plastfw
 *
-* Licensed under the GNU General Public License v3.
+* Licensed under the MIT License.
 ******************************************************************************/
 
 #include "stdafx.h"

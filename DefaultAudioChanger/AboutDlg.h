@@ -44,5 +44,4 @@ public:
 
 private:
 	HBRUSH m_hDialogBrush;
-	CHyperLink gplLink;
 };

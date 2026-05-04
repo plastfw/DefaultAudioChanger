@@ -11,7 +11,7 @@
 #define IDC_DEVICES_LIST                1002
 #define IDC_SWITCH_BUTTON               1003
 #define IDC_DESC_STATIC                 1004
-#define IDC_GPL_LINK_STATIC             1005
+#define IDC_LICENSE_LINK_STATIC         1005
 #define IDC_HOTKEY_CHECK                1007
 #define IDC_REGHOTKEY                   1009
 #define IDC_CHECK1                      1010

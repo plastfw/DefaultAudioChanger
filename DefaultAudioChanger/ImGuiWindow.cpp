@@ -509,7 +509,7 @@ void DACWindow::BuildUI()
         ImGui::Text("Default Audio Changer v1.0.5");
         ImGui::PopStyleColor();
         ImGui::Spacing();
-        ImGui::TextWrapped("(c) 2011 Sergiu Giurgiu\nLicensed under the GPL v3\n\nUI rebuilt with Dear ImGui + D3D11");
+        ImGui::TextWrapped("Default Audio Changer\nLicensed under the MIT License\n\nUI rebuilt with Dear ImGui + D3D11");
         ImGui::Spacing();
         ImGui::Separator();
         ImGui::Spacing();
